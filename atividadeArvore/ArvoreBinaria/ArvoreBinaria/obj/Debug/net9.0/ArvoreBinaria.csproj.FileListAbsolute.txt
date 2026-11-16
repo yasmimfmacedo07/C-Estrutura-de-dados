@@ -1,0 +1,14 @@
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.exe
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.deps.json
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.runtimeconfig.json
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.dll
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.pdb
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.AssemblyInfoInputs.cache
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.AssemblyInfo.cs
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.csproj.CoreCompileInputs.cache
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.dll
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\obj\Debug\net9.0\refint\ArvoreBinaria.dll
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.pdb
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.genruntimeconfig.cache
+D:\c#_alysson\atividadeArvore\ArvoreBinaria\ArvoreBinaria\obj\Debug\net9.0\ref\ArvoreBinaria.dll
