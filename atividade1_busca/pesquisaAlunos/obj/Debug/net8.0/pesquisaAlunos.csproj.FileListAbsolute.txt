@@ -1,0 +1,14 @@
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\bin\Debug\net8.0\pesquisaAlunos.exe
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\bin\Debug\net8.0\pesquisaAlunos.deps.json
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\bin\Debug\net8.0\pesquisaAlunos.runtimeconfig.json
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\bin\Debug\net8.0\pesquisaAlunos.dll
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\bin\Debug\net8.0\pesquisaAlunos.pdb
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\obj\Debug\net8.0\pesquisaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\obj\Debug\net8.0\pesquisaAlunos.AssemblyInfoInputs.cache
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\obj\Debug\net8.0\pesquisaAlunos.AssemblyInfo.cs
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\obj\Debug\net8.0\pesquisaAlunos.csproj.CoreCompileInputs.cache
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\obj\Debug\net8.0\pesquisaAlunos.dll
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\obj\Debug\net8.0\refint\pesquisaAlunos.dll
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\obj\Debug\net8.0\pesquisaAlunos.pdb
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\obj\Debug\net8.0\pesquisaAlunos.genruntimeconfig.cache
+D:\c#_alysson\atividade1_busca\pesquisaAlunos\obj\Debug\net8.0\ref\pesquisaAlunos.dll
